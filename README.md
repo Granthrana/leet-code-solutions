@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Granthrana/leet-code-solutions/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Granthrana/leet-code-solutions/tree/master/0509-fibonacci-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Granthrana/leet-code-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Granthrana/leet-code-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Granthrana/leet-code-solutions/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Granthrana/leet-code-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Granthrana/leet-code-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Granthrana/leet-code-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
