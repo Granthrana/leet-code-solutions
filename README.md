@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Granthrana/leet-code-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Granthrana/leet-code-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Granthrana/leet-code-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Granthrana/leet-code-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Granthrana/leet-code-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Granthrana/leet-code-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Granthrana/leet-code-solutions/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Granthrana/leet-code-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
