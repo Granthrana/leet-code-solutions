@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Granthrana/leet-code-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Granthrana/leet-code-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Granthrana/leet-code-solutions/tree/master/0704-binary-search) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Granthrana/leet-code-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Granthrana/leet-code-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Granthrana/leet-code-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Granthrana/leet-code-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Granthrana/leet-code-solutions/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
