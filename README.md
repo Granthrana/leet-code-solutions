@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Granthrana/leet-code-solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Granthrana/leet-code-solutions/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/Granthrana/leet-code-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Granthrana/leet-code-solutions/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Granthrana/leet-code-solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Granthrana/leet-code-solutions/tree/master/0836-rectangle-overlap) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Granthrana/leet-code-solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Granthrana/leet-code-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Granthrana/leet-code-solutions/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Granthrana/leet-code-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Granthrana/leet-code-solutions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Granthrana/leet-code-solutions/tree/master/0283-move-zeroes) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Granthrana/leet-code-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Granthrana/leet-code-solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Granthrana/leet-code-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Granthrana/leet-code-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Granthrana/leet-code-solutions/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Granthrana/leet-code-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
