@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Granthrana/leet-code-solutions/tree/master/0062-unique-paths) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/Granthrana/leet-code-solutions/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Math
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Granthrana/leet-code-solutions/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/Granthrana/leet-code-solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Granthrana/leet-code-solutions/tree/master/0088-merge-sorted-array) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Granthrana/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Granthrana/leet-code-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Granthrana/leet-code-solutions/tree/master/0162-find-peak-element) |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Granthrana/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
