@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Granthrana/leet-code-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Granthrana/leet-code-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Granthrana/leet-code-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Granthrana/leet-code-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Granthrana/leet-code-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Granthrana/leet-code-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Granthrana/leet-code-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Granthrana/leet-code-solutions/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Granthrana/leet-code-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Granthrana/leet-code-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
