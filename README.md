@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Granthrana/leet-code-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Granthrana/leet-code-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Granthrana/leet-code-solutions/tree/master/0020-valid-parentheses) |
+| [0389-find-the-difference](https://github.com/Granthrana/leet-code-solutions/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/Granthrana/leet-code-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Granthrana/leet-code-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Granthrana/leet-code-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Granthrana/leet-code-solutions/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Granthrana/leet-code-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Granthrana/leet-code-solutions/tree/master/0389-find-the-difference) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Granthrana/leet-code-solutions/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Granthrana/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/Granthrana/leet-code-solutions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Granthrana/leet-code-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Granthrana/leet-code-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Granthrana/leet-code-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Granthrana/leet-code-solutions/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Granthrana/leet-code-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/Granthrana/leet-code-solutions/tree/master/0389-find-the-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Granthrana/leet-code-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Granthrana/leet-code-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
