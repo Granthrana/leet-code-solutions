@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Granthrana/leet-code-solutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Granthrana/leet-code-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0940-distinct-subsequences-ii) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Granthrana/leet-code-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Granthrana/leet-code-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Granthrana/leet-code-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Granthrana/leet-code-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Granthrana/leet-code-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Granthrana/leet-code-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Granthrana/leet-code-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Granthrana/leet-code-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Granthrana/leet-code-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Granthrana/leet-code-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Granthrana/leet-code-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Granthrana/leet-code-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Granthrana/leet-code-solutions/tree/master/0389-find-the-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Granthrana/leet-code-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Granthrana/leet-code-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Granthrana/leet-code-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Granthrana/leet-code-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Granthrana/leet-code-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Granthrana/leet-code-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Granthrana/leet-code-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Granthrana/leet-code-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Granthrana/leet-code-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Newton's Method
