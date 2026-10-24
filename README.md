@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Granthrana/leet-code-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Granthrana/leet-code-solutions/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/Granthrana/leet-code-solutions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Granthrana/leet-code-solutions/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/Granthrana/leet-code-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Granthrana/leet-code-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Granthrana/leet-code-solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Granthrana/leet-code-solutions/tree/master/0078-subsets) |
 ## Binary Indexed Tree
 |  |
