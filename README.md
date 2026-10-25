@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Granthrana/leet-code-solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Granthrana/leet-code-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Granthrana/leet-code-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Granthrana/leet-code-solutions/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Granthrana/leet-code-solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Granthrana/leet-code-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Granthrana/leet-code-solutions/tree/master/0875-koko-eating-bananas) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Granthrana/leet-code-solutions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Granthrana/leet-code-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Granthrana/leet-code-solutions/tree/master/0621-task-scheduler) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Granthrana/leet-code-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Granthrana/leet-code-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Granthrana/leet-code-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Granthrana/leet-code-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Granthrana/leet-code-solutions/tree/master/0389-find-the-difference) |
+| [0621-task-scheduler](https://github.com/Granthrana/leet-code-solutions/tree/master/0621-task-scheduler) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Granthrana/leet-code-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Granthrana/leet-code-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Granthrana/leet-code-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/Granthrana/leet-code-solutions/tree/master/0621-task-scheduler) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/Granthrana/leet-code-solutions/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/Granthrana/leet-code-solutions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Granthrana/leet-code-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Granthrana/leet-code-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Granthrana/leet-code-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -343,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Granthrana/leet-code-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/Granthrana/leet-code-solutions/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/Granthrana/leet-code-solutions/tree/master/1046-last-stone-weight) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Granthrana/leet-code-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
