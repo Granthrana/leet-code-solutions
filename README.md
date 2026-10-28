@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Granthrana/leet-code-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Granthrana/leet-code-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Granthrana/leet-code-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1901-find-a-peak-element-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Granthrana/leet-code-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Granthrana/leet-code-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Granthrana/leet-code-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Granthrana/leet-code-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Granthrana/leet-code-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Granthrana/leet-code-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1901-find-a-peak-element-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Granthrana/leet-code-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Granthrana/leet-code-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Granthrana/leet-code-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Granthrana/leet-code-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Granthrana/leet-code-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
