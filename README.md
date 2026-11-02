@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Granthrana/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Granthrana/leet-code-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Granthrana/leet-code-solutions/tree/master/0204-count-primes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Granthrana/leet-code-solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Granthrana/leet-code-solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Granthrana/leet-code-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Granthrana/leet-code-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Granthrana/leet-code-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Granthrana/leet-code-solutions/tree/master/0410-split-array-largest-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/Granthrana/leet-code-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Granthrana/leet-code-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Granthrana/leet-code-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Granthrana/leet-code-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Granthrana/leet-code-solutions/tree/master/0389-find-the-difference) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/Granthrana/leet-code-solutions/tree/master/0621-task-scheduler) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Granthrana/leet-code-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Granthrana/leet-code-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
