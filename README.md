@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Granthrana/leet-code-solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Granthrana/leet-code-solutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Granthrana/leet-code-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0740-delete-and-earn](https://github.com/Granthrana/leet-code-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Granthrana/leet-code-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Granthrana/leet-code-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Granthrana/leet-code-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Granthrana/leet-code-solutions/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Granthrana/leet-code-solutions/tree/master/0704-binary-search) |
+| [0740-delete-and-earn](https://github.com/Granthrana/leet-code-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Granthrana/leet-code-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Granthrana/leet-code-solutions/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/Granthrana/leet-code-solutions/tree/master/1046-last-stone-weight) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Granthrana/leet-code-solutions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Granthrana/leet-code-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Granthrana/leet-code-solutions/tree/master/0621-task-scheduler) |
+| [0740-delete-and-earn](https://github.com/Granthrana/leet-code-solutions/tree/master/0740-delete-and-earn) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Granthrana/leet-code-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Granthrana/leet-code-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Granthrana/leet-code-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
