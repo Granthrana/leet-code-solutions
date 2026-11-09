@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Granthrana/leet-code-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Granthrana/leet-code-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Granthrana/leet-code-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Granthrana/leet-code-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Granthrana/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Granthrana/leet-code-solutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Granthrana/leet-code-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Granthrana/leet-code-solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Granthrana/leet-code-solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Granthrana/leet-code-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Granthrana/leet-code-solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Granthrana/leet-code-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/Granthrana/leet-code-solutions/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Granthrana/leet-code-solutions/tree/master/0621-task-scheduler) |
