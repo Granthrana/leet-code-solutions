@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Granthrana/leet-code-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Granthrana/leet-code-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Granthrana/leet-code-solutions/tree/master/0020-valid-parentheses) |
+| [0091-decode-ways](https://github.com/Granthrana/leet-code-solutions/tree/master/0091-decode-ways) |
 | [0344-reverse-string](https://github.com/Granthrana/leet-code-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Granthrana/leet-code-solutions/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/Granthrana/leet-code-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Granthrana/leet-code-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Granthrana/leet-code-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Granthrana/leet-code-solutions/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Granthrana/leet-code-solutions/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Granthrana/leet-code-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Granthrana/leet-code-solutions/tree/master/0198-house-robber) |
