@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Granthrana/leet-code-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Granthrana/leet-code-solutions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Granthrana/leet-code-solutions/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/Granthrana/leet-code-solutions/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/Granthrana/leet-code-solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Granthrana/leet-code-solutions/tree/master/0413-arithmetic-slices) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Granthrana/leet-code-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Granthrana/leet-code-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Granthrana/leet-code-solutions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Granthrana/leet-code-solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Granthrana/leet-code-solutions/tree/master/0413-arithmetic-slices) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Granthrana/leet-code-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Granthrana/leet-code-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Granthrana/leet-code-solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Granthrana/leet-code-solutions/tree/master/0322-coin-change) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -467,4 +470,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Granthrana/leet-code-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Granthrana/leet-code-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Granthrana/leet-code-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
