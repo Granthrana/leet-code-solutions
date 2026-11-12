@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Granthrana/leet-code-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Granthrana/leet-code-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Granthrana/leet-code-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Granthrana/leet-code-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Granthrana/leet-code-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Granthrana/leet-code-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Granthrana/leet-code-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
