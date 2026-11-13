@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Granthrana/leet-code-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Granthrana/leet-code-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Granthrana/leet-code-solutions/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Granthrana/leet-code-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Granthrana/leet-code-solutions/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/Granthrana/leet-code-solutions/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/Granthrana/leet-code-solutions/tree/master/0410-split-array-largest-sum) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Granthrana/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Granthrana/leet-code-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Granthrana/leet-code-solutions/tree/master/0204-count-primes) |
+| [0279-perfect-squares](https://github.com/Granthrana/leet-code-solutions/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Granthrana/leet-code-solutions/tree/master/0343-integer-break) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Granthrana/leet-code-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Granthrana/leet-code-solutions/tree/master/0509-fibonacci-number) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Granthrana/leet-code-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Granthrana/leet-code-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Granthrana/leet-code-solutions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Granthrana/leet-code-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Granthrana/leet-code-solutions/tree/master/0322-coin-change) |
 ## Bucket Sort
 |  |
@@ -479,10 +482,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Granthrana/leet-code-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Granthrana/leet-code-solutions/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Granthrana/leet-code-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Granthrana/leet-code-solutions/tree/master/0322-coin-change) |
 ## Trie
 |  |
